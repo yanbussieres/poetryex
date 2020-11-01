@@ -3,10 +3,11 @@ name = "main"
 version = "0.1.0"
 description = ""
 authors = ["Yan Bussieres <yan.buss22@gmail.com>"]
+# packages = [{ include = "../lib/dep3" }]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-dep3 = {path = "../lib/dep3"}
+dep2  = {path = "../lib/dep2"}
 
 
 [tool.poetry.dev-dependencies]
