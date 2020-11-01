@@ -6,6 +6,7 @@ authors = ["Yan Bussieres <yan.buss22@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+dep1 = {path = "../dep1"}
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

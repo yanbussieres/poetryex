@@ -1,4 +1,4 @@
-from dep import __version__
+from dep2 import __version__
 
 
 def test_version():
