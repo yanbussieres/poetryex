@@ -9,5 +9,8 @@ File "/private/var/folders/5d/yl0b7h4x00s0jt_zjqy58r040000gn/T/pip-build-env-9wo
 ```
 #### Solution (kind of)
 
-1. Get an earlier version of poetry installed locally through `brew`. (but you have to do it locally since there is only one formula for installing poetry with brew) 
-2. Keep the same setup, downgrade pip to <19. 
+- Get an earlier version of poetry installed locally through `brew`. (but you have to do it locally since there is only one formula for installing poetry with brew)
+
+**OR**
+
+-  Keep the same setup, downgrade pip to <19. 
